@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Fix subtitle
+GenericName=Fix Subtitle Encoding
+Comment=Convert text files
+Exec=fix_subtitle %U
+Terminal=false
+Type=Application
+MimeType=text/plain;
+Icon=accessories-text-editor
+Categories=GNOME;GTK;Utility;TextEditor;
+Keywords=Text;Plaintext;Write;Subtitle
+
