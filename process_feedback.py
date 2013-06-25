@@ -19,6 +19,7 @@ def process_file(filename):
             answer = ''
         else:
             answer += l
+    answers.append(answer.strip())
     return answers
 
 data = []
